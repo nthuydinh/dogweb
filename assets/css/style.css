@@ -1,0 +1,27 @@
+* {
+    font-family: arial;
+}
+#heading {
+    font-weight: 600 ;
+}
+.sub-heading, .About strong, .background-table strong {
+    color: #1762a4;
+}
+.sub-heading {
+    background-color: #7fb2d679;
+}
+.background-table {
+    background-color: #f7f2f2;
+}
+.t-blackblue {
+    color: #15379dcf;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.dog-image {
+    float: right;
+    width: 300px;
+    height: 300px;
+}
